@@ -39,8 +39,12 @@ declare module '@tiptap/core' {
   }
 }
 
-export const backtickInputRegex = /^```([a-z]+)?[\s\n]$/
-export const tildeInputRegex = /^~~~([a-z]+)?[\s\n]$/
+// WOC: changed so that code blocks don't require a space after ```
+
+// export const backtickInputRegex = /^```([a-z]+)?[\s\n]$/
+// export const tildeInputRegex = /^~~~([a-z]+)?[\s\n]$/
+export const backtickInputRegex = /^```$/
+export const tildeInputRegex = /^~~~$/
 
 export const CodeBlock = Node.create<CodeBlockOptions>({
   name: 'codeBlock',

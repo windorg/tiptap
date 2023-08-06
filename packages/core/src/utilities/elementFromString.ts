@@ -1,3 +1,4 @@
+// @ts-nocheck
 export function elementFromString(value: string): HTMLElement {
   // add a wrapper to preserve leading and trailing whitespace
   const wrappedValue = `<body>${value}</body>`

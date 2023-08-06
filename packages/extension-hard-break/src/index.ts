@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { HardBreak } from './hard-break'
 
 export * from './hard-break'

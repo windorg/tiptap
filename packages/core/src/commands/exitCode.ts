@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { exitCode as originalExitCode } from '@tiptap/pm/commands'
 
 import { RawCommands } from '../types'

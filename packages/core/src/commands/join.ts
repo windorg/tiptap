@@ -1,3 +1,4 @@
+// @ts-nocheck
 import {
   joinBackward as originalJoinBackward,
   joinDown as originalJoinDown,

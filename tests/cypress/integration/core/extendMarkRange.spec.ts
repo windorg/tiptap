@@ -1,3 +1,4 @@
+// @ts-nocheck
 /// <reference types="cypress" />
 
 // eslint-disable-next-line

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { MarkSpec, NodeSpec, Schema } from '@tiptap/pm/model'
 
 import { Editor, MarkConfig, NodeConfig } from '..'

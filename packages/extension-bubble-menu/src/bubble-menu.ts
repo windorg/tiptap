@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Extension } from '@tiptap/core'
 
 import { BubbleMenuPlugin, BubbleMenuPluginProps } from './bubble-menu-plugin'

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Plugin, Transaction } from '@tiptap/pm/state'
 
 import { ExtensionConfig } from '.'

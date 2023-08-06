@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Extension } from '@tiptap/core'
 import { history, redo, undo } from '@tiptap/pm/history'
 

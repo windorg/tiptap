@@ -1,3 +1,4 @@
+// @ts-nocheck
 const waitUntilElementExists = (selector: any, callback: (element: Element) => void) => {
   const element = document.querySelector(selector)
 

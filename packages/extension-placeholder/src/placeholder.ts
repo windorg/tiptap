@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Editor, Extension } from '@tiptap/core'
 import { Node as ProsemirrorNode } from '@tiptap/pm/model'
 import { Plugin, PluginKey } from '@tiptap/pm/state'

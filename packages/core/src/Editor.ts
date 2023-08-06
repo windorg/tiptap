@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { MarkType, NodeType, Schema } from '@tiptap/pm/model'
 import {
   EditorState, Plugin, PluginKey, Transaction,

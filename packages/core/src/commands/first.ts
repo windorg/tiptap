@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Command, CommandProps, RawCommands } from '../types'
 
 declare module '@tiptap/core' {

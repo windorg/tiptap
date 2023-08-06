@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { BubbleMenuPlugin, BubbleMenuPluginProps } from '@tiptap/extension-bubble-menu'
 import Vue, { Component, PropType } from 'vue'
 

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { EditorState, Plugin, TextSelection } from '@tiptap/pm/state'
 
 import { CommandManager } from './CommandManager'

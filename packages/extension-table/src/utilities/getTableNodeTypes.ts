@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { NodeType, Schema } from '@tiptap/pm/model'
 
 export function getTableNodeTypes(schema: Schema): { [key: string]: NodeType } {

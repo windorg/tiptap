@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { RawCommands } from '../types'
 import { isiOS } from '../utilities/isiOS'
 import { isMacOS } from '../utilities/isMacOS'

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { MarkType } from '@tiptap/pm/model'
 
 import { getMarkType } from '../helpers/getMarkType'

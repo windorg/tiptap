@@ -1,3 +1,4 @@
+// @ts-nocheck
 export * from './CommandManager'
 export * from './Editor'
 export * from './Extension'

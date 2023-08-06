@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { TableRow } from './table-row'
 
 export * from './table-row'

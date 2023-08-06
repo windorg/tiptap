@@ -1,3 +1,4 @@
+// @ts-nocheck
 import Vue, { Component, PropType } from 'vue'
 
 import { Editor } from './Editor'

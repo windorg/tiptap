@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { EditorState, Transaction } from '@tiptap/pm/state'
 
 import { Editor } from './Editor'

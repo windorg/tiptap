@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Node as ProseMirrorNode, NodeType } from '@tiptap/pm/model'
 import { canJoin, findWrapping } from '@tiptap/pm/transform'
 

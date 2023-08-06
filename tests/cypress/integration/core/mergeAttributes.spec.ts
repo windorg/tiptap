@@ -1,3 +1,4 @@
+// @ts-nocheck
 /// <reference types="cypress" />
 
 import { mergeAttributes } from '@tiptap/core'

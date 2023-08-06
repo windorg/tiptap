@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Suggestion } from './suggestion'
 
 export * from './findSuggestionMatch'

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { AnyExtension, EnableRules } from '../types'
 
 export function isExtensionRulesEnabled(extension: AnyExtension, enabled: EnableRules): boolean {

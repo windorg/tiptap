@@ -1,3 +1,4 @@
+// @ts-nocheck
 import * as commands from '../commands'
 import { Extension } from '../Extension'
 

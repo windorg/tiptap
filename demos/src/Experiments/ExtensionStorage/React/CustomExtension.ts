@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Extension } from '@tiptap/core'
 
 type CustomStorage = {

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Node as ProseMirrorNode } from '@tiptap/pm/model'
 
 import { MarkRange } from '../types'

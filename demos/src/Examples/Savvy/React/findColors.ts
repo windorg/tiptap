@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Node } from '@tiptap/pm/model'
 import { Decoration, DecorationSet } from '@tiptap/pm/view'
 

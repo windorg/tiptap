@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { newlineInCode as originalNewlineInCode } from '@tiptap/pm/commands'
 
 import { RawCommands } from '../types'

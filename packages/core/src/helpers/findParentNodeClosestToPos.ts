@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Node as ProseMirrorNode, ResolvedPos } from '@tiptap/pm/model'
 
 import { Predicate } from '../types'

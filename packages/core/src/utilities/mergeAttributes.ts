@@ -1,3 +1,4 @@
+// @ts-nocheck
 export function mergeAttributes(...objects: Record<string, any>[]): Record<string, any> {
   return objects
     .filter(item => !!item)

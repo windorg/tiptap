@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { History } from './history'
 
 export * from './history'

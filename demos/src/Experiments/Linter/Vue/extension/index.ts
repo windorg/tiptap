@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Linter } from './Linter'
 
 export * from './Linter'

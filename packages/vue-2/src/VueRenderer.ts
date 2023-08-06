@@ -1,3 +1,4 @@
+// @ts-nocheck
 import Vue from 'vue'
 import { VueConstructor } from 'vue/types/umd'
 

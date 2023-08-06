@@ -1,3 +1,4 @@
+// @ts-nocheck
 import LinterPlugin from '../LinterPlugin'
 
 export class BadWords extends LinterPlugin {

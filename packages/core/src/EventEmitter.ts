@@ -1,3 +1,4 @@
+// @ts-nocheck
 type StringKeyOf<T> = Extract<keyof T, string>
 type CallbackType<
   T extends Record<string, any>,

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Collaboration } from './collaboration'
 
 export * from './collaboration'

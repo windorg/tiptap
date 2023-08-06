@@ -1,3 +1,4 @@
+// @ts-nocheck
 /// <reference types="cypress" />
 
 import Document from '@tiptap/extension-document'

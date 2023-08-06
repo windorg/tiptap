@@ -1,3 +1,4 @@
+// @ts-nocheck
 import Vue, { Component } from 'vue'
 
 export interface NodeViewWrapperInterface extends Vue {

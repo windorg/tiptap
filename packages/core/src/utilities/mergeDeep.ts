@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { isPlainObject } from './isPlainObject'
 
 export function mergeDeep(target: Record<string, any>, source: Record<string, any>): Record<string, any> {

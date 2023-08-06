@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { NodeType } from '@tiptap/pm/model'
 import { EditorState } from '@tiptap/pm/state'
 

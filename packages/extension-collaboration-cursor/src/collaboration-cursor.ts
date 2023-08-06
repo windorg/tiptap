@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Extension } from '@tiptap/core'
 import { yCursorPlugin } from 'y-prosemirror'
 

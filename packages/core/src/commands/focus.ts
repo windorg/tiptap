@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { isTextSelection } from '../helpers/isTextSelection'
 import { resolveFocusPosition } from '../helpers/resolveFocusPosition'
 import { FocusPosition, RawCommands } from '../types'

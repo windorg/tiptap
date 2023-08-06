@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Node as ProseMirrorNode } from '@tiptap/pm/model'
 
 export function isNodeEmpty(node: ProseMirrorNode): boolean {

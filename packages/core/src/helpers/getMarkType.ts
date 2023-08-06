@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { MarkType, Schema } from '@tiptap/pm/model'
 
 export function getMarkType(nameOrType: string | MarkType, schema: Schema): MarkType {

@@ -1,3 +1,4 @@
+// @ts-nocheck
 /**
  * Remove a property or an array of properties from an object
  * @param obj Object

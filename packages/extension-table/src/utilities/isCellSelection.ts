@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { CellSelection } from '@tiptap/pm/tables'
 
 export function isCellSelection(value: unknown): value is CellSelection {

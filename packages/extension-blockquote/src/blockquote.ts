@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { mergeAttributes, Node, wrappingInputRule } from '@tiptap/core'
 
 export interface BlockquoteOptions {

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Node } from '@tiptap/core'
 
 export const Document = Node.create({

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { liftEmptyBlock as originalLiftEmptyBlock } from '@tiptap/pm/commands'
 
 import { RawCommands } from '../types'

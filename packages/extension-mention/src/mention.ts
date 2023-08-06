@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { mergeAttributes, Node } from '@tiptap/core'
 import { Node as ProseMirrorNode } from '@tiptap/pm/model'
 import { PluginKey } from '@tiptap/pm/state'

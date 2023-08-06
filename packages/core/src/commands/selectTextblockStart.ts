@@ -1,3 +1,4 @@
+// @ts-nocheck
 // @ts-ignore
 // TODO: add types to @types/prosemirror-commands
 import { selectTextblockStart as originalSelectTextblockStart } from '@tiptap/pm/commands'

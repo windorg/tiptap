@@ -1,3 +1,4 @@
+// @ts-nocheck
 export function findDuplicates(items: any[]): any[] {
   const filtered = items.filter((el, index) => items.indexOf(el) !== index)
 

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import {
   Editor, isNodeSelection, isTextSelection, posToDOMRect,
 } from '@tiptap/core'

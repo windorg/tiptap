@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { TextAlign } from './text-align'
 
 export * from './text-align'

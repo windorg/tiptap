@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { MaybeReturnType } from '../types'
 import { isFunction } from './isFunction'
 

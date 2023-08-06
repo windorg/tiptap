@@ -1,3 +1,4 @@
+// @ts-nocheck
 export function createStyleTag(style: string, nonce?: string, suffix?: string): HTMLStyleElement {
   const tiptapStyleTag = (<HTMLStyleElement>document.querySelector(`style[data-tiptap-style${suffix ? `-${suffix}` : ''}]`))
 

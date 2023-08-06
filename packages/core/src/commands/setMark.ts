@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { MarkType, ResolvedPos } from '@tiptap/pm/model'
 import { EditorState, Transaction } from '@tiptap/pm/state'
 

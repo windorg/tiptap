@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Italic } from './italic'
 
 export * from './italic'

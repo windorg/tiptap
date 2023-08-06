@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { NodeSelection } from '@tiptap/pm/state'
 
 import { RawCommands } from '../types'

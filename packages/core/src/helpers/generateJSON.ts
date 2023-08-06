@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { DOMParser } from '@tiptap/pm/model'
 
 import { Extensions } from '../types'

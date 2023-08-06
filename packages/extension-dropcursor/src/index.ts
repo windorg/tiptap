@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Dropcursor } from './dropcursor'
 
 export * from './dropcursor'

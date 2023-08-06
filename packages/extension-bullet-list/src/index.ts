@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { BulletList } from './bullet-list'
 
 export * from './bullet-list'

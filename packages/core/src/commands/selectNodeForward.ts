@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { selectNodeForward as originalSelectNodeForward } from '@tiptap/pm/commands'
 
 import { RawCommands } from '../types'

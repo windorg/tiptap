@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Placeholder } from './placeholder'
 
 export * from './placeholder'

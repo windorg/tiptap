@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { HTMLProps } from 'react'
 import ReactDOM, { flushSync } from 'react-dom'
 

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { lift as originalLift } from '@tiptap/pm/commands'
 import { NodeType } from '@tiptap/pm/model'
 

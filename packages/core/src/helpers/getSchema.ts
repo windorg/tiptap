@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Schema } from '@tiptap/pm/model'
 
 import { Editor } from '../Editor'

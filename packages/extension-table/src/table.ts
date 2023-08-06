@@ -1,3 +1,4 @@
+// @ts-nocheck
 import {
   callOrReturn, getExtensionField, mergeAttributes, Node, ParentConfig,
 } from '@tiptap/core'

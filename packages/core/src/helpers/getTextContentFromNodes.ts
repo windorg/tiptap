@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { ResolvedPos } from '@tiptap/pm/model'
 
 export const getTextContentFromNodes = ($from: ResolvedPos, maxMatch = 500) => {

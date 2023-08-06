@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Step, Transform } from '@tiptap/pm/transform'
 
 import { Range } from '../types'

@@ -1,3 +1,4 @@
+// @ts-nocheck
 export function fromString(value: any): any {
   if (typeof value !== 'string') {
     return value

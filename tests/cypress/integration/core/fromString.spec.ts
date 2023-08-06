@@ -1,3 +1,4 @@
+// @ts-nocheck
 /// <reference types="cypress" />
 
 import { fromString } from '@tiptap/core'

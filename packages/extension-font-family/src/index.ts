@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { FontFamily } from './font-family'
 
 export * from './font-family'

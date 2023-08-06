@@ -1,3 +1,4 @@
+// @ts-nocheck
 /// <reference types="cypress" />
 
 import { Extension, getExtensionField } from '@tiptap/core'

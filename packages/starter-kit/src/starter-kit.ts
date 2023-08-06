@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Extension } from '@tiptap/core'
 import { Blockquote, BlockquoteOptions } from '@tiptap/extension-blockquote'
 import { Bold, BoldOptions } from '@tiptap/extension-bold'

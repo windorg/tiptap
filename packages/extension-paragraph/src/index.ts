@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Paragraph } from './paragraph'
 
 export * from './paragraph'

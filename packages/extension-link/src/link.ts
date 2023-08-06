@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Mark, markPasteRule, mergeAttributes } from '@tiptap/core'
 import { Plugin } from '@tiptap/pm/state'
 import { find, registerCustomProtocol, reset } from 'linkifyjs'

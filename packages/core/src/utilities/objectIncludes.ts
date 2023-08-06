@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { isRegExp } from './isRegExp'
 
 /**

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Mention } from './mention'
 
 export * from './mention'

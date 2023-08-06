@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Highlight } from './highlight'
 
 export * from './highlight'

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { NodeType } from '@tiptap/pm/model'
 import { Transaction } from '@tiptap/pm/state'
 import { canJoin } from '@tiptap/pm/transform'

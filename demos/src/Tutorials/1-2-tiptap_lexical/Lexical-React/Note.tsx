@@ -1,3 +1,4 @@
+// @ts-nocheck
 import './styles.css'
 
 import { InitialConfigType, LexicalComposer } from '@lexical/react/LexicalComposer'

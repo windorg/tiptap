@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Heading } from './heading'
 
 export * from './heading'

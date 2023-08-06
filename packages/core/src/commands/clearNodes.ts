@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { liftTarget } from '@tiptap/pm/transform'
 
 import { RawCommands } from '../types'

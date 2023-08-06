@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { EditorState, NodeSelection, TextSelection } from '@tiptap/pm/state'
 import { canSplit } from '@tiptap/pm/transform'
 

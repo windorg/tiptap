@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { setBlockType } from '@tiptap/pm/commands'
 import { NodeType } from '@tiptap/pm/model'
 

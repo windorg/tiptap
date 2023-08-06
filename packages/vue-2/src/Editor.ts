@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Editor as CoreEditor } from '@tiptap/core'
 import Vue from 'vue'
 

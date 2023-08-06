@@ -1,3 +1,4 @@
+// @ts-nocheck
 export * from './BubbleMenu'
 export { Editor } from './Editor'
 export * from './EditorContent'

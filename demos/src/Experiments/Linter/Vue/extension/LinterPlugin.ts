@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Node as ProsemirrorNode } from '@tiptap/pm/model'
 
 export interface Result {

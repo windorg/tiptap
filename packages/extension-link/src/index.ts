@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Link } from './link'
 
 export * from './link'

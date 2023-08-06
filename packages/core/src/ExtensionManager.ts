@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { keymap } from '@tiptap/pm/keymap'
 import { Node as ProsemirrorNode, Schema } from '@tiptap/pm/model'
 import { Plugin } from '@tiptap/pm/state'

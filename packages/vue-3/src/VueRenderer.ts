@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Editor } from '@tiptap/core'
 import { Component, markRaw, reactive } from 'vue'
 

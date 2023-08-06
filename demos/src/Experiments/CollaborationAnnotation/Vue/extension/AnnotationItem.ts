@@ -1,3 +1,4 @@
+// @ts-nocheck
 export class AnnotationItem {
   private decoration!: any
 

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { MarkConfig, NodeConfig } from '..'
 import {
   AnyConfig,

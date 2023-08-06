@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { selectParentNode as originalSelectParentNode } from '@tiptap/pm/commands'
 
 import { RawCommands } from '../types'

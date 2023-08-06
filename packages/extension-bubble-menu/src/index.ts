@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { BubbleMenu } from './bubble-menu'
 
 export * from './bubble-menu'

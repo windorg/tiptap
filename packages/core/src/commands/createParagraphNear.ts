@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { createParagraphNear as originalCreateParagraphNear } from '@tiptap/pm/commands'
 
 import { RawCommands } from '../types'

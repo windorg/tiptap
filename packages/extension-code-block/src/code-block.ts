@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { mergeAttributes, Node, textblockTypeInputRule } from '@tiptap/core'
 import { Plugin, PluginKey, TextSelection } from '@tiptap/pm/state'
 

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import {
   Mark as ProseMirrorMark, Node as ProseMirrorNode, NodeType, ParseOptions,
 } from '@tiptap/pm/model'

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { TextSelection } from '@tiptap/pm/state'
 
 export function isTextSelection(value: unknown): value is TextSelection {

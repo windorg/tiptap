@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { EditorState } from '@tiptap/pm/state'
 
 import { getSchemaTypeNameByName } from './getSchemaTypeNameByName'

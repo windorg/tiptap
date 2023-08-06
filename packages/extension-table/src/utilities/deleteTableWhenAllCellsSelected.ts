@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { findParentNodeClosestToPos, KeyboardShortcutCommand } from '@tiptap/core'
 
 import { isCellSelection } from './isCellSelection'

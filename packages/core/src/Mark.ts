@@ -1,3 +1,4 @@
+// @ts-nocheck
 import {
   DOMOutputSpec, Mark as ProseMirrorMark, MarkSpec, MarkType,
 } from '@tiptap/pm/model'

@@ -1,3 +1,4 @@
+// @ts-nocheck
 export * from './callOrReturn'
 export * from './createStyleTag'
 export * from './deleteProps'

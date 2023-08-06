@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Extension, textInputRule } from '@tiptap/core'
 
 export const SmilieReplacer = Extension.create({

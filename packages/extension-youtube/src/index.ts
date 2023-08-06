@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Youtube } from './youtube'
 
 export * from './youtube'

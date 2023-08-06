@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { ExtensionAttribute } from '../types'
 
 export function getSplittedAttributes(

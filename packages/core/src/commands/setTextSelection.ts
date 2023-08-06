@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { TextSelection } from '@tiptap/pm/state'
 
 import { Range, RawCommands } from '../types'

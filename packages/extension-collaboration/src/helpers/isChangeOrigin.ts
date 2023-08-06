@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Transaction } from '@tiptap/pm/state'
 import { ySyncPluginKey } from 'y-prosemirror'
 

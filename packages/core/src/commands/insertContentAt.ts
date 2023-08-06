@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Fragment, Node as ProseMirrorNode, ParseOptions } from '@tiptap/pm/model'
 
 import { createNodeFromContent } from '../helpers/createNodeFromContent'

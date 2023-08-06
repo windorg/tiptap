@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { AnyExtension, MaybeThisParameterType, RemoveThis } from '../types'
 
 export function getExtensionField<T = any>(

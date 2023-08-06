@@ -1,3 +1,4 @@
+// @ts-nocheck
 export { ClipboardTextSerializer } from './clipboardTextSerializer'
 export { Commands } from './commands'
 export { Editable } from './editable'

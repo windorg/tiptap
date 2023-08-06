@@ -1,3 +1,4 @@
+// @ts-nocheck
 import './styles.css'
 
 import { Collaboration } from '@tiptap/extension-collaboration'

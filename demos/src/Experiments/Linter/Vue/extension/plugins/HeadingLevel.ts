@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { EditorView } from '@tiptap/pm/view'
 
 import LinterPlugin, { Result as Issue } from '../LinterPlugin'

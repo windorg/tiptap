@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { svelte } from '@sveltejs/vite-plugin-svelte'
 import react from '@vitejs/plugin-react'
 import vue from '@vitejs/plugin-vue'

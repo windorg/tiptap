@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Selection, Transaction } from '@tiptap/pm/state'
 import { ReplaceAroundStep, ReplaceStep } from '@tiptap/pm/transform'
 

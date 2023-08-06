@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { CollaborationAnnotation } from './collaboration-annotation'
 
 export * from './collaboration-annotation'

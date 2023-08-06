@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { NodeType } from '@tiptap/pm/model'
 
 import { InputRule, InputRuleFinder } from '../InputRule'

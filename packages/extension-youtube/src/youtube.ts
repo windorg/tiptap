@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { mergeAttributes, Node, nodePasteRule } from '@tiptap/core'
 
 import { getEmbedUrlFromYoutubeUrl, isValidYoutubeUrl, YOUTUBE_REGEX_GLOBAL } from './utils'

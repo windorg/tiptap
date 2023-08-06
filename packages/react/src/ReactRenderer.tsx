@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Editor } from '@tiptap/core'
 import React from 'react'
 

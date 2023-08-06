@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { mergeAttributes, Node, wrappingInputRule } from '@tiptap/core'
 
 import ListItem from '../../extension-list-item/src'

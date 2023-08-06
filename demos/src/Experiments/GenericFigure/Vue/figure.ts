@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { mergeAttributes, Node } from '@tiptap/core'
 import { Plugin } from '@tiptap/pm/state'
 

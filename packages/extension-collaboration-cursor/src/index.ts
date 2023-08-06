@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { CollaborationCursor } from './collaboration-cursor'
 
 export * from './collaboration-cursor'

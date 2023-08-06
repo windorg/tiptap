@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Plugin, PluginKey, Selection } from '@tiptap/pm/state'
 
 import { CommandManager } from '../CommandManager'

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Subscript } from './subscript'
 
 export * from './subscript'

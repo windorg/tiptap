@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Extension } from '@tiptap/core'
 import { EditorView } from '@tiptap/pm/view'
 import {

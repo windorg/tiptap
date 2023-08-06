@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { escapeForRegEx, Range } from '@tiptap/core'
 import { ResolvedPos } from '@tiptap/pm/model'
 

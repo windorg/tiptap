@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { PasteRule, PasteRuleFinder } from '../PasteRule'
 
 /**

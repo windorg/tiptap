@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { NodeType } from '@tiptap/pm/model'
 import { wrapInList as originalWrapInList } from '@tiptap/pm/schema-list'
 

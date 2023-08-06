@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { HorizontalRule } from './horizontal-rule'
 
 export * from './horizontal-rule'

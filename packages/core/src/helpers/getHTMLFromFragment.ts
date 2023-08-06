@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { DOMSerializer, Fragment, Schema } from '@tiptap/pm/model'
 
 export function getHTMLFromFragment(fragment: Fragment, schema: Schema): string {

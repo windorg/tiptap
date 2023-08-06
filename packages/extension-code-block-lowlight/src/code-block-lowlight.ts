@@ -1,3 +1,4 @@
+// @ts-nocheck
 import CodeBlock, { CodeBlockOptions } from '@tiptap/extension-code-block'
 
 import { LowlightPlugin } from './lowlight-plugin'

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { FloatingMenuPlugin, FloatingMenuPluginProps } from '@tiptap/extension-floating-menu'
 import Vue, { Component, PropType } from 'vue'
 

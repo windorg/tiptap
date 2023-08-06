@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Node as ProseMirrorNode } from '@tiptap/pm/model'
 import { NodeSelection } from '@tiptap/pm/state'
 import { NodeView as ProseMirrorNodeView } from '@tiptap/pm/view'

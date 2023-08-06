@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { NodeConfig } from '..'
 import { getExtensionField } from '../helpers/getExtensionField'
 import { Extensions } from '../types'

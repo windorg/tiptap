@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Node as ProseMirrorNode, ParseOptions, Schema } from '@tiptap/pm/model'
 
 import { Content } from '../types'

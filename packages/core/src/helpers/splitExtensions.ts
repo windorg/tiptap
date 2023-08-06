@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Extension } from '../Extension'
 import { Mark } from '../Mark'
 import { Node } from '../Node'

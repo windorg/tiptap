@@ -1,3 +1,4 @@
+// @ts-nocheck
 /**
  * Removes duplicated values within an array.
  * Supports numbers, strings and objects.

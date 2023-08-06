@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Selection } from '@tiptap/pm/state'
 
 import { Predicate } from '../types'

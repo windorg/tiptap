@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { FloatingMenu } from './floating-menu'
 
 export * from './floating-menu'

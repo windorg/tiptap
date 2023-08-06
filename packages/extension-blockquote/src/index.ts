@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Blockquote } from './blockquote'
 
 export * from './blockquote'

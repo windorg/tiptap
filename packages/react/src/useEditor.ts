@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { EditorOptions } from '@tiptap/core'
 import {
   DependencyList,

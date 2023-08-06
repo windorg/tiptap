@@ -1,3 +1,4 @@
+// @ts-nocheck
 import 'iframe-resizer/js/iframeResizer.contentWindow'
 import './style.scss'
 

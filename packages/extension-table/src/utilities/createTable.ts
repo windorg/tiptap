@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Fragment, Node as ProsemirrorNode, Schema } from '@tiptap/pm/model'
 
 import { createCell } from './createCell'

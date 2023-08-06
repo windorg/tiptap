@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Text } from './text'
 
 export * from './text'

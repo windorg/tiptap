@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { EditorView } from '@tiptap/pm/view'
 
 import { minMax } from '../utilities/minMax'

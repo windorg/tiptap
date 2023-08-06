@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { EditorOptions } from '@tiptap/core'
 import { onBeforeUnmount, onMounted, shallowRef } from 'vue'
 

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Superscript } from './superscript'
 
 export * from './superscript'

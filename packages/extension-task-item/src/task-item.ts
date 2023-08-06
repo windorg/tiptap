@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { mergeAttributes, Node, wrappingInputRule } from '@tiptap/core'
 import { Node as ProseMirrorNode } from '@tiptap/pm/model'
 

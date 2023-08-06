@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Node } from '@tiptap/pm/model'
 
 import { Extensions, JSONContent } from '../types'

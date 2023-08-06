@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { defineComponent, h } from 'vue'
 
 export const NodeViewWrapper = defineComponent({

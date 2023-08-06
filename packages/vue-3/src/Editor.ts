@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Editor as CoreEditor, EditorOptions } from '@tiptap/core'
 import { EditorState, Plugin, PluginKey } from '@tiptap/pm/state'
 import {

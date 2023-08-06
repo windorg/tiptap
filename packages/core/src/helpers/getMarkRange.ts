@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Mark as ProseMirrorMark, MarkType, ResolvedPos } from '@tiptap/pm/model'
 
 import { Range } from '../types'

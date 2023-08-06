@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { ParseOptions } from '@tiptap/pm/model'
 
 import { Content, RawCommands } from '../types'

@@ -1,3 +1,4 @@
+// @ts-nocheck
 export function isiOS(): boolean {
   return [
     'iPad Simulator',

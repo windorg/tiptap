@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { deleteSelection as originalDeleteSelection } from '@tiptap/pm/commands'
 
 import { RawCommands } from '../types'

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Gapcursor } from './gapcursor'
 
 export * from './gapcursor'

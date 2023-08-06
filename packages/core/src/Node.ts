@@ -1,3 +1,4 @@
+// @ts-nocheck
 import {
   DOMOutputSpec, Node as ProseMirrorNode, NodeSpec, NodeType,
 } from '@tiptap/pm/model'

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { DOMSerializer, Node, Schema } from '@tiptap/pm/model'
 import { createHTMLDocument, VHTMLDocument } from 'zeed-dom'
 

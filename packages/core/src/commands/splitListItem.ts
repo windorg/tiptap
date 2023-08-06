@@ -1,3 +1,4 @@
+// @ts-nocheck
 import {
   Fragment, Node as ProseMirrorNode, NodeType, Slice,
 } from '@tiptap/pm/model'

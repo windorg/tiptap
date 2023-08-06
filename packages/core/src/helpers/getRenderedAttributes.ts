@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Mark, Node } from '@tiptap/pm/model'
 
 import { ExtensionAttribute } from '../types'

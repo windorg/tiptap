@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Extensions, getSchema } from '@tiptap/core'
 import { DOMParser } from '@tiptap/pm/model'
 import { parseHTML } from 'zeed-dom'

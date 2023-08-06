@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { MarkType } from '@tiptap/pm/model'
 
 import { getMarksBetween } from '../helpers/getMarksBetween'

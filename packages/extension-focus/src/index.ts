@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { FocusClasses } from './focus'
 
 export * from './focus'

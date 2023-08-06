@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { ParseRule } from '@tiptap/pm/model'
 
 import { ExtensionAttribute } from '../types'

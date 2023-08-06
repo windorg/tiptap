@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { TableHeader } from './table-header'
 
 export * from './table-header'

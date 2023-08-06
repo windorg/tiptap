@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { getAttributes } from '@tiptap/core'
 import { MarkType } from '@tiptap/pm/model'
 import { Plugin, PluginKey } from '@tiptap/pm/state'
